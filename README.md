@@ -1,2 +1,1 @@
-# react-data-polling-thunk
-Short Polling with React, Redux and Thunk
+Example of Short Polling with React, Redux and Thunk  
