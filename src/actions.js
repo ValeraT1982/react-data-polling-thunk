@@ -1,5 +1,6 @@
 import {toastr} from "react-redux-toastr";
-import {LOAD_DATA_SUCCESS} from "./actionTypes";
+
+export const LOAD_DATA_SUCCESS = "LOAD_DATA_SUCCESS";
 
 export const loadPrices = () => dispatch => {
     return fetch(

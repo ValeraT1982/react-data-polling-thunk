@@ -1,4 +1,4 @@
-import {LOAD_DATA_SUCCESS} from "./actionTypes";
+import {LOAD_DATA_SUCCESS} from "./actions";
 
 const initialState = {
     prices: []
